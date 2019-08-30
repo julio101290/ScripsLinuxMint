@@ -1,0 +1,19 @@
+Bien pues lo primero que hay que instalar es tightvncserver para ello
+
+sudo apt-get install tightvncserver
+
+Luego instalamos xrdp con el siguiente comando
+
+sudo apt-get install xrdp
+
+Luego instalamos el entorno gráfico xfce4
+
+sudo apt-get install xfce4
+
+Ahora asignamos a xrdp el escritorio xfce4 para que este quede por default
+
+
+
+Por el ultimo reiniciamos el servicio xrdp
+
+sudo service xrdp restart
