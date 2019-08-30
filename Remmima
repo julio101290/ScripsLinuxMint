@@ -1,0 +1,7 @@
+sudo apt-get install Remmina
+
+Es necesario tambien instalar los plugins para soporte los protocolos RPD y VNC
+
+sudo apt-get install Remmina-plugin-rdp
+
+sudo apt-get install Remmina-plugin-vnc
