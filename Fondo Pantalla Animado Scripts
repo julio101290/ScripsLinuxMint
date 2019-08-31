@@ -1,0 +1,11 @@
+sudo add-apt-repository ppa:fyrmir/livewallpaper-daily
+
+Luego actualizan e instalan
+
+sudo apt-get update && sudo apt-get install livewallpaper
+
+Luego instalan las preferencias de livewallpaper
+
+Luego actualizan e instalan
+
+sudo apt-get install livewallpaper-config livewallpaper-indicator
