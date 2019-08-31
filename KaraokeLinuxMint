@@ -1,0 +1,3 @@
+//CUIDADO NOMAS POR QUE SI NO ESTA CONECTADO EL AUDIFONO LA COMPUTADORA EMPEZARA A CHILLAR FEO
+
+pactl load-module module-loopback latency_msec=1
