@@ -1,0 +1,7 @@
+ sudo apt install xrdp xorgxrdp
+ sudo apt install -y freerdp-x11
+ echo env -u SESSION_MANAGER -u DBUS_SESSION_BUS_ADDRESS xfce4 session>~/.xsession
+
+Luego reiniciamos con el siguiente comando
+
+ sudo reboot
